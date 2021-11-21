@@ -2,6 +2,9 @@
 ### .Net Developer - Tech && coffee 🤖 ☕
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
