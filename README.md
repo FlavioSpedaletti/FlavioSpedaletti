@@ -1,6 +1,9 @@
 # Hi 👋, I'm Flavio Spedaletti
 ### .Net Developer - Tech && coffee 🤖 ☕
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviospedaletti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
