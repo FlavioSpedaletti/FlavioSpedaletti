@@ -3,9 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        4 mins          ███████████░░░░░░░░░░░░░░   44.48 % 
-Markdown     2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.74 % 
-JavaScript   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.78 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
