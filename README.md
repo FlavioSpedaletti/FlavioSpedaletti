@@ -1,11 +1,8 @@
 # Hi 👋, I'm Flavio Spedaletti
 ### .Net Developer - Tech && coffee 🤖 ☕
 
+<!--Wakatime badge (worflow está desabilitado)-->
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
